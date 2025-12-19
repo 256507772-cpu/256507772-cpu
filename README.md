@@ -14,8 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-public class date10_15{
-	public static void main (String[]args){
-		System.out.println("你好");
-	}
-}
